@@ -2,7 +2,7 @@
 
 > **An end-to-end Business Intelligence solution developed in Power BI to analyze financial performance, customer behavior, operational efficiency, workforce metrics, and branch performance for a fictional multi-location pizza restaurant business.**
 
-> ![Executive Dashboard](Dashboard%20Preview/01%20Executive%20Dashboard.png)
+> ![Executive Dashboard](Dashboard%20Preview/Executive%20Dashboard.png)
 
 ---
 
@@ -68,7 +68,7 @@ The report is organized into six dashboards, each designed to answer a different
 
 ### Executive Dashboard
 
-![Executive Dashboard](Dashboard%20Preview/01%20Executive%20Dashboard.png)
+![Executive Dashboard](Dashboard%20Preview/Executive%20Dashboard.png)
 
 
 The Executive Dashboard provides a consolidated view of overall business performance, allowing decision-makers to monitor key operational and financial metrics from a single page. It brings together information from multiple business functions, making it easier to identify trends, compare performance, and prioritize areas that require attention.
@@ -86,7 +86,7 @@ The analysis combines executive KPIs, financial performance, product performance
 
 ### Finance Dashboard
 
-![Finance Dashboard](Dashboard%20Preview/02%20Finance%20Dashboard.png)
+![Finance Dashboard](Dashboard%20Preview/Finance%20Dashboard.png)
 
 
 The Finance Dashboard focuses on understanding the financial performance of the business beyond overall revenue figures. It enables users to evaluate profitability, revenue composition, cost trends, and transaction behavior while identifying the factors that influence financial performance.
@@ -103,7 +103,7 @@ The analysis covers revenue trends, profitability, transaction analysis, product
 ---
 ### Customer Support Dashboard
 
-![Customer Support Dashboard](Dashboard%20Preview/03%20Customer%20Support%20Dashboard.png)
+![Customer Support Dashboard](Dashboard%20Preview/Customer%20Support%20Dashboard.png)
 
 
 Customer experience plays a significant role in long-term business success, making it important to monitor not only customer satisfaction but also the efficiency of support operations. The Customer Support Dashboard provides visibility into service performance by analyzing support requests, response efficiency, resolution times, customer feedback, and ticket trends.
@@ -121,7 +121,7 @@ The analysis combines ticket volumes, average resolution time, customer satisfac
 
 ### Employees Dashboard
 
-![Employees Dashboard](Dashboard%20Preview/04%20Employees%20Dashboard.png)
+![Employees Dashboard](Dashboard%20Preview/Employees%20Dashboard.png)
 
 
 Employees play a vital role in delivering consistent customer experiences and maintaining operational performance. The Employees Dashboard provides a consolidated view of workforce composition, organizational structure, employee costs, and workforce demographics to support people-related decision-making.
@@ -139,7 +139,7 @@ The analysis covers employee demographics, departmental distribution, salary exp
 
 ### Customers Dashboard
 
-![Customers Dashboard](Dashboard%20Preview/05%20Customers%20Dashboard.png)
+![Customers Dashboard](Dashboard%20Preview/Customers%20Dashboard.png)
 
 
 Understanding customer behavior is essential for sustainable business growth. The Customers Dashboard focuses on customer segmentation, purchasing patterns, revenue contribution, and customer value to help management better understand how different customer groups contribute to business performance.
@@ -157,7 +157,7 @@ The analysis combines customer segmentation, purchasing behavior, revenue contri
 
 ### Branch Dashboard
 
-![Branch Dashboard](Dashboard%20Preview/06%20Branch%20Dashboard.png)
+![Branch Dashboard](Dashboard%20Preview/Branches%20Dashboard.png)
 
 
 Business performance can vary significantly across locations, making branch-level analysis essential for effective operational planning and investment decisions. The Branch Dashboard compares financial and operational performance across branch groups, helping management understand how different locations contribute to overall business success.
