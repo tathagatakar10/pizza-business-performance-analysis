@@ -488,31 +488,29 @@ While there is always more to learn, this project reflects the foundation I have
 # Repository Structure
 
 ```text
-Pizza-Business-Performance-Analysis/
+pizza-business-performance-analysis/
 │
 ├── README.md
-├── Pizza Business Performance Analysis.pbix
 │
 └── Dashboard Preview/
-    ├── 01 Executive Dashboard.png
-    ├── 02 Finance Dashboard.png
-    ├── 03 Customer Support Dashboard.png
-    ├── 04 Employees Dashboard.png
-    ├── 05 Customers Dashboard.png
-    └── 06 Branch Dashboard.png
+    ├── Branches Dashboard.png
+    ├── Customer Support Dashboard.png
+    ├── Customers Dashboard.png
+    ├── Employees Dashboard.png
+    ├── Executive Dashboard.png
+    └── Finance Dashboard.png
 ```
-
 ---
 
 # Getting Started
 
-To explore the report locally:
+The dashboard previews are available directly in this repository, allowing you to explore the project's reporting design and analytical coverage without downloading additional software.
 
-1. Clone or download this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Navigate through the report using the built-in navigation menu.
-4. Use the interactive slicers, filters, and tooltips to explore different business perspectives.
-5. Review each dashboard individually or use the Executive Dashboard as the starting point for a high-level overview of business performance.
+1. Browse the dashboard screenshots embedded throughout this README.
+2. Review the business questions addressed by each dashboard.
+3. Explore the analytical approach, management considerations, and opportunities for further analysis described in this documentation.
+
+The screenshots provide a visual overview of the six dashboards. Interactive features, including slicers, navigation, and tooltips, are part of the Power BI report and cannot be explored through static images alone.
 
 ---
 
